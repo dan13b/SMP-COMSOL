@@ -1,0 +1,19 @@
+If you are using this material library in your research-related documents, it is recommended that you cite the publication where we proposed and used this code.
+
+
+Below is the BibTex entry for citing this research:
+
+
+@article{https://doi.org/10.1002/mame.202100620,
+author = {Bautista-Salinas, Daniel and Abdelaziz, Mohamed E. M. K. and Temelkuran, Burak and Yeatman, Eric M. and Huins, Charlie T. and Rodriguez y Baena, Ferdinando},
+title = {Towards a Functional Atraumatic Self-Shaping Cochlear Implant},
+journal = {Macromolecular Materials and Engineering},
+volume = {n/a},
+number = {n/a},
+pages = {2100620},
+keywords = {cochlear implants, recovery forces, self-shaping devices, shape memory effect, shape memory polymers},
+doi = {https://doi.org/10.1002/mame.202100620},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/mame.202100620},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/mame.202100620},
+abstract = {Abstract Cochlear implants (CIs) have been shown to improve hearing in patients suffering from sensorineural hearing loss. CIs deliver electrical pulses to the hearing nerve via an electrode array that is carefully inserted in the scala tympani in a complex surgical procedure. However, current CIs can cause trauma during insertion, threatening hearing preservation. Existing pre-curved CIs use external mechanisms to be inserted. In this work, a pre-curved CI is proposed that curls into the cochlea under the influence of body temperature. By comparison to existing CIs, the proposed device can be smaller and easily inserted. The implant material is implemented in COMSOL to simulate its behavior, and an analytical study is conducted to verify the material model. Two additional studies are carried out to assess the implant recovery forces and their ability to recover shape even with embedded metal. Numerical modeling and experimental tests suggest that the CI recovery forces are below the rupture threshold. The recovery study in a functional self-shaping CI shows that the device will still be able to curl in the cochlea. This implant concept has thus shown potential to be eventually used in clinical practice and improve hearing outcomes seen at present.}
+}
